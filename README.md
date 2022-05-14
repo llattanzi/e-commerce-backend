@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/96707052/168404108-5a5e68c2-a87b-4700-
   MIT<br/>
 
   ## Contribution:
-  Lauren Lattanzi
+  Lauren Lattanzi<br/>
   Starter code from: https://github.com/coding-boot-camp/fantastic-umbrella
 
   ## Tests:
