@@ -4,6 +4,10 @@
   ## Description:
   Back end for an e-commerce website that stores products, categories, and product tags on a server database. The application also handles a variety of api requests to the database.
 
+
+https://user-images.githubusercontent.com/96707052/168404108-5a5e68c2-a87b-4700-8b45-54260476b645.mp4
+
+
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
